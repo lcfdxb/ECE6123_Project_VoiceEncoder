@@ -1,5 +1,5 @@
 # ECE6123_Project_VoiceEncoder 
-This repo is the course project for ECE6123. See the pdf file for full report.
+This repo is the course project for ECE6123 Maching Learning. See the pdf file for full report.
 
 ## Model, Data Preprocessing and Training
 This part of code and implementation is the encoder part of the project [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning), including the preprocessing and training scripts.
